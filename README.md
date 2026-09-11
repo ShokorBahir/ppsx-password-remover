@@ -18,6 +18,8 @@ Ever forgotten the password to your own PowerPoint presentation? This tool helps
 ✅ Error handling — won't crash on bad files
 ✅ 100% offline — your files never leave your computer
 🚀 Getting Started
+🖥️ Screenshot
+App Screenshot
 Requirements
 Python 3.6 or higher
 No additional libraries needed
