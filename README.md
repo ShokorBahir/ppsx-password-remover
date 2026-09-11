@@ -1,14 +1,14 @@
-# ppsx-password-remover
-A simple Python GUI tool to remove password protection from PowerPoint (.ppsx) files
-#🔐 PPSX Password Remover
+# 🔐 PPSX Password Remover
 A simple, lightweight desktop tool to remove password protection from PowerPoint Show (.ppsx) files.
 
 Built with Python — no external dependencies required!
 
-##📋 About
+## 📋 About
+
 Ever forgotten the password to your own PowerPoint presentation? This tool helps you regain access to your own protected files by removing the password protection layer.
 
-##✨ Features
+## ✨ Features
+
 ✅ Modern GUI interface
 ✅ Select multiple files at once
 ✅ Keeps the original filename
@@ -16,10 +16,13 @@ Ever forgotten the password to your own PowerPoint presentation? This tool helps
 ✅ Real-time progress log
 ✅ Error handling — won't crash on bad files
 ✅ 100% offline — your files never leave your computer
-##🖥️ Screenshot
-![App Screenshot](Screenshot.PNG)
-##🚀 Getting Started
-Requirements
+## 🖥️ Screenshot
+
+![App Screenshot](Screenshot.png)
+
+## 🚀 Getting Started
+
+### Requirements
 Python 3.6 or higher
 No additional libraries needed
 Installation
@@ -36,6 +39,9 @@ PowerPoint files (.ppsx) are ZIP archives containing XML files. The password pro
 Opens the file as a ZIP archive
 Finds and removes the password tag
 Repackages everything back
+
 ⚠️ Disclaimer
+
 This tool is intended only for recovering access to your own files that you've forgotten the password for. Please use responsibly.
+
 ⭐ Star this repo if it helped you!
